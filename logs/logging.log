@@ -1,0 +1,8 @@
+2021-10-31 22:35:29 [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 22:57:47TRACE [] [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:04:58 TRACE [] [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:07:16  [springAppName_IS_UNDEFINED,] [TRACE] [http-nio-8080-exec-1] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:12:14 [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:22:09 [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:23:42 [TRACE] [http-nio-8080-exec-2] c.H.controller.UserController --- Traced Successfully
+2021-10-31 23:25:40.786 TRACE [SERVICE-SIDE,8b37e186ec7ee9aa,8b37e186ec7ee9aa] 8392 --- [nio-8080-exec-2] com.HMPackage.controller.UserController  : Traced Successfully
